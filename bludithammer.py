@@ -10,7 +10,7 @@ import argparse
 
 
 
-# Define an ASCII art representation of a hammer
+# banner art
 
 banner = r'''
 
